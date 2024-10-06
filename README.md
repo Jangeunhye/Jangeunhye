@@ -8,7 +8,7 @@
   
   <h2 align=center>  💌 About Me </h2>
 
-<a href="https://dmsgp220@gmail.com" target="_blank">
+<a href="mailto:dmsgp20@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
 </a>
 </div>
