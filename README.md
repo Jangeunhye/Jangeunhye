@@ -8,11 +8,9 @@
   
   <h2 align=center>  💌 About Me </h2>
 
-  <a href="mailto:dmsgp220@gmail.com">
-     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square"> 
-  </a>
-  <a href="https://velog.io/@eunhey/posts">
- <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white&style=flat-square">   </a>
+<a href="https://dmsgp220@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+</a>
 </div>
 
 <br>
@@ -23,20 +21,20 @@
 
 <h2 align=center> 🏄‍♀️ Skills </h2>
   <div>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&style=flat-square"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&style=flat-square"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=flat-square"> 
+   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=Hibernate&logoColor=white" alt="JPA" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&style=flat-square">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white&style=flat-square">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&style=flat-square">
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white&style=flat-square">
+<img src="https://img.shields.io/badge/NCP-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Cloud Platform" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white&style=flat-square">
-     <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&style=flat-square">
-</div>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript" />
+
+  </div>
 
   <br>
   <br>
